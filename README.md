@@ -2,7 +2,7 @@
 
 Hello! I'm **Kaletsidik Kelayneh**, a passionate **Health Informatician** and **Software Developer** dedicated to transforming healthcare through innovative technologies. My work bridges the gap between healthcare and IT, utilizing my expertise in **data management**, **healthcare systems**, and **technology solutions** to improve patient outcomes and streamline healthcare processes.
 
-With a deep understanding of both the healthcare industry and the technical side of software development, I specialize in designing and implementing systems that support clinical decision-making, data-driven healthcare, and interoperability across various health information platforms. Whether working on **electronic health records (EHR)**, **telemedicine systems**, or **health data analytics**, my goal is to create solutions that make healthcare more accessible, efficient, and patient-centered.
+With a deep understanding of both the healthcare industry and the technical side of software development, I specialize in designing and implementing systems that support clinical decision-making, data-driven healthcare, and interoperability across various health information platforms. Whether working on **electronic medical records (EMR)**, **telemedicine systems**, or **health data analytics**, my goal is to create solutions that make healthcare more accessible, efficient, and patient-centered.
 
 ### 💡 What I’m passionate about:
 - **Improving healthcare through technology**: I focus on developing systems that improve patient care, enhance workflow efficiency, and reduce healthcare costs.
