@@ -16,11 +16,6 @@ With a deep understanding of both the healthcare industry and the technical side
 - Advancing my knowledge in **healthcare regulations** (HIPAA, HL7, etc.) to better navigate complex compliance landscapes.
 - Exploring **blockchain** technology's potential in healthcare for secure data sharing and patient privacy.
 
-### 🏆 Goals for the future:
-- Lead innovative projects that focus on **digital health transformation** and **health system optimization**.
-- Contribute to **open-source healthcare solutions** and foster collaboration in the health tech community.
-- Help healthcare organizations adopt **AI-powered decision support** systems to improve clinical outcomes.
-
 Feel free to reach out if you’re interested in collaborating on **health tech solutions** or have any questions about **digital healthcare innovations**! 🌍
 
 
