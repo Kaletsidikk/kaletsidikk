@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./profile-banner.png" alt="Kaletsidik Kelayneh Banner" width="100%">
+  <video src="./profile-banner.mp4" width="100%" autoplay loop muted></video>
 </p>
 
 <h1 align="center">
