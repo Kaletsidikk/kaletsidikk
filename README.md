@@ -81,6 +81,3 @@ I am **Kaletsidik Kelayneh**, a passionate **Health Informatician** and **Softwa
   <i>"Innovating at the intersection of life sciences and computer science."</i>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kaletsidikk&color=20B2AA&style=flat-square&label=PROFILE+VIEWS" alt="Views" />
-</p>
