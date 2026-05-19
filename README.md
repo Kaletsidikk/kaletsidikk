@@ -3,84 +3,54 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=20B2AA&center=true&vCenter=true&width=600&lines=Health+Informatician;Full+Stack+Developer;Telegram+Automation+Expert;Digital+Health+Innovator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=20B2AA&center=true&vCenter=true&width=600&lines=Software+Developer;Data+Automation+Specialist;Web+Scraping+Expert;Health+Informatician" alt="Typing SVG" />
 </h1>
 
 <p align="center">
   <a href="https://linkedin.com/in/kaletsidik-kelayneh"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:kalukelayneh@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:kaletsidikkelayneh@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
 
 ### 🧬 About Me
 
-I am **Kaletsidik Kelayneh**, a passionate **Health Informatician** and **Software Developer** dedicated to bridging the gap between clinical excellence and technical innovation. My mission is to transform healthcare through data-driven systems, interoperability, and accessible digital solutions.
+I am **Kaletsidik Kelayneh**, a passionate **Software Developer** and **Data Automation Specialist** dedicated to bridging the gap between technical innovation and structured data extraction. I specialize in building robust web scraping pipelines, complex automated extraction systems, and integrating LLMs to process unstructured data.
 
-*   🔭 **Currently working on**: Advanced EMR systems and Telegram-based healthcare automation.
-*   🌱 **Learning**: **AWS Cloud Architecture**, **Railway Deployment**, and **AI/ML** for predictive healthcare.
-*   ⚡ **Fun fact**: I believe the best code is the one that saves lives or simplifies a clinician's day.
+*   🔭 **Currently working on**: Dynamic Web Scraping Pipelines, LLM Data Normalization, and EMR systems.
+*   🌱 **Learning**: **Advanced Apify Architecture**, **OpenRouter AI Integrations**, and **Cloud Deployment**.
+*   ⚡ **Fun fact**: I believe the best code is the one that flawlessly automates hours of manual data entry in seconds.
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack & Tools
 
-#### 🌐 Frontend & Core
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
-#### ⚙️ Backend & Logic
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+#### 🌐 Web Scraping & AI Automation
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Selenium](https://img.shields.io/badge/-selenium-%2343B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Apify](https://img.shields.io/badge/Apify-97CA3F?style=for-the-badge&logo=c&logoColor=white)
+![OpenRouter](https://img.shields.io/badge/OpenRouter_API-000000?style=for-the-badge&logo=openai&logoColor=white)
+![Regex](https://img.shields.io/badge/Regex-00599C?style=for-the-badge&logo=regex&logoColor=white)
+
+#### ⚙️ Frontend, Backend & Logic
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
-
-#### 🗄️ Database & Storage
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
-#### ☁️ Hosting & Cloud (Evolving)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 
 ---
 
-### 🏆 Featured Projects
+### 🚀 Featured Automation Projects
 
-| Project | Focus | Tech |
-| :--- | :--- | :--- |
-| **[HakimGizaw EMR](https://github.com/Kaletsidikk/HakimGizawEMR)** | Clinical Data Management | PHP, MySQL |
-| **[Telegram Automation](https://github.com/Kaletsidikk/telegram-certificate-bot)** | Workflow Efficiency | Python, Telegram API |
-| **[Personalized Dashboard](https://github.com/Kaletsidikk/Personalized-Dashboard)** | Patient Engagement | Full Stack |
-| **[HakimGizaw Website](https://github.com/Kaletsidikk/HakimGizaw-Website)** | Healthcare SEO & UX | Web Technologies |
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaletsidikk&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaletsidikk&theme=dark&layout=compact&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaletsidikk&theme=dark&hide_border=true" alt="Streak" />
-</p>
+- 🕷️ **[OpenRouter LLM Data Normalization Pipeline](https://github.com/Kaletsidikk/openrouter-data-pipeline)**: An automated Python pipeline bridging traditional web scraping with LLMs to force structured JSON outputs from messy HTML.
+- ⚡ **[Scalable Apify Web Scraper](https://github.com/Kaletsidikk/apify-dynamic-scraper)**: Dynamic JS directory scraper utilizing Apify actors, proxy rotation, and infinite scroll handling.
+- 🤖 **[T-GRAB Telegram Extractor](https://github.com/Kaletsidikk/T-GRAB)**: Telegram community management tool to scrape, parse, and export hierarchical member datasets.
+- 💼 **Mela Platform Engine**: Engineered the regex-based parsing engine extracting, sanitizing, and database-mapping Telegram job listings.
 
 ---
 
 <p align="center">
-  <i>"Innovating at the intersection of life sciences and computer science."</i>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kaletsidikk&color=20B2AA&style=flat-square&label=PROFILE+VIEWS" alt="Views" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kaletsidikk&show_icons=true&theme=radical" alt="kaletsidik's github stats" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaletsidikk&layout=compact&theme=radical" alt="top languages" width="300"/>
 </p>
