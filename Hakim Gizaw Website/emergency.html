@@ -1,0 +1,292 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Emergency Department - Hakim Gizaw Hospital</title>
+
+  <!-- google font link -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@500;700&family=Rubik:wght@400;500;700&display=swap"
+    rel="stylesheet">
+
+  <!-- custom css link -->
+  <link rel="stylesheet" href="./assets/css/style.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  
+  <style>
+    .dept-card {
+      background: var(--white);
+      padding: 35px;
+      border-radius: var(--radius-12);
+      box-shadow: var(--shadow-1);
+      border: 1px solid var(--alice-blue);
+      margin-bottom: 30px;
+    }
+    .dept-card h2 {
+      font-family: var(--ff-oswald);
+      font-size: 2.4rem;
+      color: var(--midnight-green);
+      margin-bottom: 15px;
+      border-bottom: 1px solid var(--alice-blue);
+      padding-bottom: 8px;
+    }
+    .dept-card p {
+      color: var(--independece);
+      line-height: 1.8;
+      font-size: 1.6rem;
+      margin-bottom: 15px;
+    }
+    .dept-list {
+      list-style: none;
+      padding-left: 0;
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+    }
+    .dept-list-item {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      font-size: 1.6rem;
+      color: var(--independece);
+    }
+    .dept-list-item ion-icon {
+      color: var(--verdigris);
+      font-size: 2rem;
+      flex-shrink: 0;
+    }
+  </style>
+</head>
+
+<body id="top">
+
+  <!-- #PRELOADER -->
+  <div class="preloader" data-preloader>
+    <div class="circle"></div>
+  </div>
+
+  <!-- #HEADER -->
+  <header class="header" data-header>
+    <div class="container">
+
+      <a href="index.html" class="logo">
+        <img src="./assets/images/Logo.png" width="156" height="56" alt="Hakim gizaw Home">
+      </a>
+
+      <nav class="navbar" data-navbar>
+        <div class="navbar-top">
+          <a href="index.html" class="logo hover-shining">
+            <img src="./assets/images/Logo.png" width="136" height="46" alt="Hakim gizaw Home">
+          </a>
+          <button class="nav-close-btn" aria-label="close menu" data-nav-toggler>
+            <ion-icon name="close-outline" aria-hidden="true"></ion-icon>
+          </button>
+        </div>
+
+        <ul class="navbar-list">
+          <li class="navbar-item">
+            <a href="index.html" class="navbar-link title-md">Home</a>
+          </li>
+          <li class="navbar-item">
+            <a href="ourDoctors.html" class="navbar-link title-md">Our Doctors</a>
+          </li>
+          <li class="navbar-item">
+            <div class="dropdown">
+              <button class="dropbtn">Departments
+                <i class="fa fa-caret-down"></i>
+              </button>
+              <div class="dropdown-content">
+                <a href="pediatrics.html">Pediatrics</a>
+                <a href="gynecology.html">Gynecology</a>
+                <a href="orhthopedix.html">Orthopedics</a>
+                <a href="#">Inpatient</a>
+                <a href="#">Outpatient</a>
+                <a href="#">Labratory</a>
+                <a href="#">Adult ICU</a>
+                <a href="emergency.html">Emergency</a>
+                <a href="#">Maternity Ward</a>
+                <a href="#">Art clinic</a>
+              </div>
+            </div>
+          </li>
+          <li class="navbar-item">
+            <a href="aboutUs.html" class="navbar-link title-md">About us</a>
+          </li>
+          <li class="navbar-item">
+            <a href="contactUs.html" class="navbar-link title-md">Contact</a>
+          </li>
+        </ul>
+
+        <ul class="social-list">
+          <li><a href="https://www.twitter.com" class="social-link"><ion-icon name="logo-twitter"></ion-icon></a></li>
+          <li><a href="https://www.facebook.com" class="social-link"><ion-icon name="logo-facebook"></ion-icon></a></li>
+          <li><a href="https://www.pinterest.com" class="social-link"><ion-icon name="logo-pinterest"></ion-icon></a></li>
+          <li><a href="https://www.instagram.com" class="social-link"><ion-icon name="logo-instagram"></ion-icon></a></li>
+          <li><a href="https://www.youtube.com" class="social-link"><ion-icon name="logo-youtube"></ion-icon></a></li>
+        </ul>
+      </nav>
+
+      <button class="nav-open-btn" aria-label="open menu" data-nav-toggler>
+        <ion-icon name="menu-outline"></ion-icon>
+      </button>
+
+      <a href="appointment.html" class="btn has-before title-md">Make Appointment</a>
+      <div class="overlay" data-nav-toggler data-overlay></div>
+    </div>
+  </header>
+
+  <main>
+    <article>
+      <!-- PAGE HERO -->
+      <section class="section hero" style="background-image: url('./assets/images/hero-bg.png'); padding-block: 160px 80px;" aria-label="emergency department title">
+        <div class="container">
+          <p class="hero-subtitle has-before">24/7 Lifesaving Care</p>
+          <h1 class="headline-lg hero-title">Emergency Department</h1>
+        </div>
+      </section>
+
+      <!-- DETAIL CONTENT -->
+      <section class="section" style="background-color: var(--alice-blue); padding-block: 80px;">
+        <div class="container">
+          
+          <div class="dept-card">
+            <h2>About Emergency Department</h2>
+            <p>Our Emergency Department provides 24/7 care for patients with acute illnesses and injuries. Our team of emergency medicine physicians, nurses, and support staff are dedicated to delivering prompt and efficient care to those in need.</p>
+            <p>We offer a wide range of emergency services, including evaluation and treatment for chest pain, trauma, respiratory distress, and other life-threatening conditions.</p>
+          </div>
+
+          <div class="dept-card">
+            <h2>Services Offered</h2>
+            <ul class="dept-list">
+              <li class="dept-list-item">
+                <ion-icon name="checkmark-circle-outline"></ion-icon>
+                <span>Triage and comprehensive assessment</span>
+              </li>
+              <li class="dept-list-item">
+                <ion-icon name="checkmark-circle-outline"></ion-icon>
+                <span>Diagnostic testing (X-rays, CT scans, lab tests)</span>
+              </li>
+              <li class="dept-list-item">
+                <ion-icon name="checkmark-circle-outline"></ion-icon>
+                <span>Emergency medical treatment and wound care</span>
+              </li>
+              <li class="dept-list-item">
+                <ion-icon name="checkmark-circle-outline"></ion-icon>
+                <span>Advanced cardiac life support (ACLS)</span>
+              </li>
+              <li class="dept-list-item">
+                <ion-icon name="checkmark-circle-outline"></ion-icon>
+                <span>Emergency surgery and trauma management</span>
+              </li>
+              <li class="dept-list-item">
+                <ion-icon name="checkmark-circle-outline"></ion-icon>
+                <span>Intensive care unit (ICU) admission services</span>
+              </li>
+            </ul>
+          </div>
+
+          <div class="dept-card">
+            <h2>Emergency Contact</h2>
+            <p>In case of emergency, please dial our direct line or visit our Emergency Department immediately:</p>
+            <p><strong>Hospital Name:</strong> Hakim Gizaw Hospital</p>
+            <p><strong>Address:</strong> Debre Birhan, Ethiopia</p>
+            <p><strong>Emergency Hotline:</strong> <a href="tel:+251968674940" style="color: var(--verdigris); font-weight: bold;">+251968674940</a></p>
+          </div>
+
+        </div>
+      </section>
+    </article>
+  </main>
+
+  <!-- #FOOTER -->
+  <footer class="footer">
+    <div class="container">
+      <div class="section footer-top">
+        <div class="footer-brand">
+          <a href="index.html" class="logo">
+            <img src="./assets/images/Logo.png" width="136" height="46" loading="lazy" alt="Hakim Gizaw-home">
+          </a>
+          <ul class="contact-list has-after">
+            <li class="contact-item">
+              <div class="item-icon"><ion-icon name="mail-open-outline"></ion-icon></div>
+              <div>
+                <p>Main Email : <a href="mailto:contact@website.com" class="contact-link">HakimGizaw@gmail.com</a></p>
+                <p>Inquiries : <a href="mailto:Info@mail.com" class="contact-link">HakimGizaw@mail.com</a></p>
+              </div>
+            </li>
+            <li class="contact-item">
+              <div class="item-icon"><ion-icon name="call-outline"></ion-icon></div>
+              <div>
+                <p>Office Telephone : <a href="tel:251913456789" class="contact-link">+251913456789</a></p>
+                <p>Mobile : <a href="tel:000232439493" class="contact-link">000 2324 39493</a></p>
+              </div>
+            </li>
+          </ul>
+        </div>
+
+        <div class="footer-list">
+          <p class="headline-sm footer-list-title">About Us</p>
+          <p class="text">Healing hands, healthy communities. Hakim Gizaw - Committed to your well-being.</p>
+          <address class="address">
+            <ion-icon name="map-outline"></ion-icon>
+            <span class="text">Hakim Gizaw Hospital<br>Debre Berhan, Ethiopia</span>
+          </address>
+        </div>
+
+        <ul class="footer-list">
+          <li><p class="headline-sm footer-list-title">Services</p></li>
+          <li><a href="terms.html" class="text footer-link">Conditions</a></li>
+          <li><a href="ourServices.html" class="text footer-link">What We Offer</a></li>
+          <li><a href="contactUs.html" class="text footer-link">Contact Us</a></li>
+        </ul>
+
+        <ul class="footer-list">
+          <li><p class="headline-sm footer-list-title">Useful Links</p></li>
+          <li><a href="terms.html" class="text footer-link">Conditions</a></li>
+          <li><a href="terms.html" class="text footer-link">Terms of Use</a></li>
+          <li><a href="ourServices.html" class="text footer-link">Our Services</a></li>
+          <li><a href="TheTeam.html" class="text footer-link">The Team List</a></li>
+        </ul>
+
+        <div class="footer-list">
+          <p class="headline-sm footer-list-title">Subscribe</p>
+          <form action="" class="footer-form">
+            <input type="email" name="email" placeholder="Email" class="input-field title-lg">
+            <button type="submit" class="btn has-before title-md">Subscribe</button>
+          </form>
+          <p class="text">Subscribe our newsletter.</p>
+        </div>
+      </div>
+
+      <div class="footer-bottom">
+        <p class="text copyright">&copy; Health informatics 2024 | All Rights Reserved</p>
+        <ul class="social-list">
+          <li><a href="https://www.facebook.com" class="social-link"><ion-icon name="logo-facebook"></ion-icon></a></li>
+          <li><a href="https://x.com/?lang=en&mx=2" class="social-link"><ion-icon name="logo-twitter"></ion-icon></a></li>
+          <li><a href="https://www.google.com" class="social-link"><ion-icon name="logo-google"></ion-icon></a></li>
+          <li><a href="https://www.linkedin.com" class="social-link"><ion-icon name="logo-linkedin"></ion-icon></a></li>
+          <li><a href="https://www.pinterest.com" class="social-link"><ion-icon name="logo-pinterest"></ion-icon></a></li>
+        </ul>
+      </div>
+    </div>
+  </footer>
+
+  <!-- #BACK TO TOP -->
+  <a href="#top" class="back-top-btn" aria-label="back to top" data-back-top-btn>
+    <ion-icon name="chevron-up"></ion-icon>
+  </a>
+
+  <!-- custom js link -->
+  <script src="./assets/js/script.js"></script>
+
+  <!-- ionicon link -->
+  <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+  <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+
+</body>
+
+</html>

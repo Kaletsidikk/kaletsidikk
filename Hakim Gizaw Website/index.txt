@@ -1,0 +1,209 @@
+HakimGizaw - home
+
+
+
+
+#---------- HEADER ----------#
+
+alt = HakimGizaw home
+
+alt = HakimGizaw home
+
+aria-label = clsoe menu
+<ion-icon name="close-outline" aria-hidden="true"></ion-icon>
+
+Home
+Doctors
+Departments
+AboutUs
+Contact
+
+<ion-icon name="logo-twitter"></ion-icon>
+<ion-icon name="logo-facebook"></ion-icon>
+<ion-icon name="logo-pinterest"></ion-icon>
+<ion-icon name="logo-instagram"></ion-icon>
+<ion-icon name="logo-youtube"></ion-icon>
+
+aria-label = open menu
+<ion-icon name="menu-outline"></ion-icon>
+
+Make Appointment
+
+
+
+#---------- HERO ----------#
+
+
+
+
+
+Locations
+<ion-icon name="location"></ion-icon>
+
+<ion-icon name="search"></ion-icon>
+Find Now
+
+alt = hero banner
+
+
+
+#---------- SERVICE ----------#
+
+alt = icon
+
+Psychiatry
+
+
+aria-label = read more about psychiatry
+<ion-icon name="arrow-forward" aria-hidden="true"></ion-icon>
+
+Gynecology
+
+Pulmonology
+
+Orthopedics
+
+
+
+
+#---------- ABOUT ----------#
+
+About Us
+
+Experienced Workers
+
+Aliquam faucibus, odio nec commodo aliquam, neque felis placerat dui, a porta ante lectus dapibus est. Aliquam
+
+Vision
+Mission
+Strategy
+
+Aliquam faucibus, odio nec commodo aliquam, neque felis placerat dui, a porta ante lectus dapibus est. Aliquam a bibendum mi, sed condimentum
+
+<ion-icon name="checkmark-circle-outline"></ion-icon>
+Sonsectetur adipisicing elit
+
+Exercitation ullamco laboris
+
+Eiusmod tempor incididunt
+
+Aolore magna aliqua
+
+alt = about banner
+
+
+
+#---------- LISTING ----------#
+
+Doctors Listig
+Browse by specialist
+
+alt = icon
+
+Psychiatry
+Doctor Ermias Dagnew
+
+Gynecology
+Doctor Ermias Dagnew
+
+Pulmonology
+Doctor Mulugeta Tefera
+
+Orthopedics
+Doctor Serkalem Kassa
+
+Pediatrics
+Doctor Betelhem Beletu
+Osteology
+Doctor Meron Alemayehu
+
+
+
+#---------- BLOG ----------#
+
+News & Article
+Latest Articles
+
+<ion-icon name="person-outline"></ion-icon>
+By Admin
+
+<ion-icon name="folder-outline"></ion-icon>
+Specialist
+
+Could intermittent fasting reduce breast cancer
+
+
+Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat
+
+Read More
+
+
+Give children more autonomy during the pandemic
+
+How do binge eating and drinking impact the liver?
+
+
+
+#---------- FOOTER ----------#
+
+
+
+<ion-icon name="mail-open-outline"></ion-icon>
+Main Email :
+HakimGizaw­@gmail.com
+
+Inquiries :
+HakimGizaw­@gmail.com
+
+<ion-icon name="call-outline"></ion-icon>
+
+
+
+About Us
+
+Healing hands, healthy communities. Hakim Gizaw - Committed to your well-being.
+
+<ion-icon name="map-outline"></ion-icon>
+
+
+
+Services
+Conditions
+What We Offer
+Contact Us
+
+Useful Links
+
+Conditions
+Terms 
+Our Services
+The Team List
+
+Subscribe
+
+placeholder = Email
+
+Subscribe 
+
+Get the latest updates via email. Any time you may unsubscribe
+
+
+<ion-icon name="logo-facebook"></ion-icon>
+<ion-icon name="logo-twitter"></ion-icon>
+<ion-icon name="logo-google"></ion-icon>
+<ion-icon name="logo-linkedin"></ion-icon>
+<ion-icon name="logo-pinterest"></ion-icon>
+
+
+
+#---------- BACK TO TOP ----------#
+
+aria-label = back to top
+
+<ion-icon name="chevron-up"></ion-icon>
+
+content references
+
+Tempaltes DOCLAB
+fontawesome 
+googlefonts
