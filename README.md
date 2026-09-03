@@ -3,50 +3,76 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=20B2AA&center=true&vCenter=true&width=600&lines=Software+Developer;Data+Automation+Specialist;Web+Scraping+Expert;Health+Informatician" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=20B2AA&center=true&vCenter=true&width=600&lines=Software+Developer;Full-Stack+Web+Developer;Health+IT+Engineer;Video+Editor+%26+Designer" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <a href="https://linkedin.com/in/kaletsidik-kelayneh"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:kaletsidikkelayneh@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://kalu.lol"><img src="https://img.shields.io/badge/Portfolio-kalu.lol-20B2AA?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://linkedin.com/in/kaletsidik-kelayneh"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"></a>
+  <a href="mailto:kaletsidikkelayneh@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email"></a>
+  <a href="https://t.me/KALNETWORK"><img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram"></a>
 </p>
 
 ---
 
-### 🧬 About Me
+### 👨‍💻 About Me
 
-I am **Kaletsidik Kelayneh**, a passionate **Software Developer** and **Data Automation Specialist** dedicated to bridging the gap between technical innovation and structured data extraction. I specialize in building robust web scraping pipelines, complex automated extraction systems, and integrating LLMs to process unstructured data.
+I am **Kaletsidik Kelayneh (kalu)**, a passionate **Full-Stack Software Developer** with 3+ years of experience building high-performance web applications, Healthcare IT systems, and automation tools. I build clean, user-centric solutions that solve real-world problems.
 
-*   🔭 **Currently working on**: Dynamic Web Scraping Pipelines, LLM Data Normalization, and EMR systems.
-*   🌱 **Learning**: **Advanced Apify Architecture**, **OpenRouter AI Integrations**, and **Cloud Deployment**.
-*   ⚡ **Fun fact**: I believe the best code is the one that flawlessly automates hours of manual data entry in seconds.
+*   🔭 **Currently working on**: Full-Stack web apps, Telegram bots, and Healthcare IT platforms.
+*   🎓 **Education**: Health Informatics (2022–2026) — bridging software engineering and clinical systems.
+*   🎨 **Also do**: Video editing, graphic design, and creative branding.
+*   ⚡ **Fun fact**: I believe the best software is invisible — it just works, beautifully.
+
+🌍 **Live Portfolio:** [kalu.lol](https://kalu.lol)
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-#### 🌐 Web Scraping & AI Automation
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Selenium](https://img.shields.io/badge/-selenium-%2343B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Apify](https://img.shields.io/badge/Apify-97CA3F?style=for-the-badge&logo=c&logoColor=white)
-![OpenRouter](https://img.shields.io/badge/OpenRouter_API-000000?style=for-the-badge&logo=openai&logoColor=white)
-![Regex](https://img.shields.io/badge/Regex-00599C?style=for-the-badge&logo=regex&logoColor=white)
+#### 🌐 Frontend & Core Web
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-#### ⚙️ Frontend, Backend & Logic
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+#### ⚙️ Backend & Databases
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+#### 🏥 Health IT & AI/ML
+![DHIS2](https://img.shields.io/badge/DHIS2-1A86C8?style=for-the-badge&logo=data&logoColor=white)
+![OpenMRS](https://img.shields.io/badge/OpenMRS-E36209?style=for-the-badge&logo=health&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ---
 
-### 🚀 Featured Automation Projects
+### 🚀 Featured Projects
 
-- 🕷️ **[OpenRouter LLM Data Normalization Pipeline](https://github.com/Kaletsidikk/openrouter-data-pipeline)**: An automated Python pipeline bridging traditional web scraping with LLMs to force structured JSON outputs from messy HTML.
-- ⚡ **[Scalable Apify Web Scraper](https://github.com/Kaletsidikk/apify-dynamic-scraper)**: Dynamic JS directory scraper utilizing Apify actors, proxy rotation, and infinite scroll handling.
-- 🤖 **[T-GRAB Telegram Extractor](https://github.com/Kaletsidikk/T-GRAB)**: Telegram community management tool to scrape, parse, and export hierarchical member datasets.
-- 💼 **Mela Platform Engine**: Engineered the regex-based parsing engine extracting, sanitizing, and database-mapping Telegram job listings.
+| Project | Description | Stack | Link |
+|---|---|---|---|
+| 🏥 **Hakim Gizaw EMR Platform** | Electronic medical records system with patient portal & doctor dashboard | Full Stack, Healthcare | [Live Site](https://hakimgizaw.page.gd/) |
+| 🎨 **Sinzir Design Platform** | Event branding & creative design platform with booking flows | Full Stack, UI/UX | [Live Site](https://sinzirdesign.vercel.app/) |
+| 🛒 **Piassa Website** | Modern marketplace inspired by Addis Ababa's Piassa district | React, Vercel | [Live Site](https://piassa-website.vercel.app/) |
+| 🍽️ **Piassa Menu** | Digital restaurant menu platform with interactive categories | Full Stack | [Live Site](https://piassa-menu.vercel.app/) |
+| 🏨 **Melorina Hotel Website** | Luxury hotel website with room showcases & online booking | HTML, CSS, JS | [Live Site](https://melorina-hotel.gt.tc/) |
+| 🤖 **ANC Clinical Decision Support** | AI/ML-powered risk prediction system for Antenatal Care | Python, LightGBM | [GitHub](https://github.com/Kaletsidikk/HakimGizawEMR) |
+| 🛍️ **Ecommerce Website** | Clean e-commerce storefront with cart & checkout | HTML, CSS, JS | [Live Site](https://kaletsidikk.github.io/Ecommerce-website/) |
+| 📊 **Hospital Operations Dashboard** | Clinical dashboard for schedules, patient flow & metrics | Full Stack | [Live Site](https://kaletsidikk.github.io/Personalized-Dashboard/) |
+
+---
+
+### 🤖 Telegram Bots
+
+- 💼 **[Mela Felagi](https://t.me/Mela_felagi_bot)** `@Mela_felagi_bot` — Scrapes job channels, parses listings via regex, and syncs to Supabase in real time.
+- 🎯 **[Donkey Birr](https://t.me/donkeybirrbot)** `@donkeybirrbot` — Telegram Mini App with task validation, reward distribution, Google OAuth & PostgreSQL backend.
 
 ---
 
