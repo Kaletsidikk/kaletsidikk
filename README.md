@@ -70,8 +70,6 @@ I am **Kaletsidik Kelayneh (kalu)**, a passionate **Full-Stack Software Develope
 ---
 
 ### 🤖 Telegram Bots
-
-- 💼 **[Mela Felagi](https://t.me/Mela_felagi_bot)** `@Mela_felagi_bot` — Scrapes job channels, parses listings via regex, and syncs to Supabase in real time.
 - 🎯 **[Donkey Birr](https://t.me/donkeybirrbot)** `@donkeybirrbot` — Telegram Mini App with task validation, reward distribution, Google OAuth & PostgreSQL backend.
 
 ---
